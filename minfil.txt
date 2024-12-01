@@ -1,0 +1,2 @@
+ECHO is on.
+skriver noget i denne fil
